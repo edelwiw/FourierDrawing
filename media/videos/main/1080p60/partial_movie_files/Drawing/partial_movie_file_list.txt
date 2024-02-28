@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/alexivanov/Desktop/Coding/Fourier drawing/media/videos/main/1080p60/partial_movie_files/Drawing/3853309586_2331997255_3439500486.mp4'
